@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+html,
+body {
+  margin: 0;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  /* background-image: url("images/hospital1.jpg"); */
+  /* position: relative; */
+  margin: 0px;
+  padding: 0px;
+  /* top: 0px; */
+
+
+}
+
+/* image section */
+#img-section {
+  background-image: url("https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  height: 700px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.title-text {
+
+  color: white;
+  text-align: center;
+  /* width: 50%; */
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* login section  */
+/* #login-all {
+  border-style: solid;
+  border-color: #fff;
+} */
+
+.login-all-div {
+  background-color: #ffc107;
+  width: 100%;
+  padding: 2em;
+
+
+}
+
+.login-text {
+  text-decoration: none;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: medium;
+
+}
+
+.login-img {
+  color: black;
+}
+
+.innerdiv {
+  position: relative;
+  top: 50px;
+  left: 50px;
+  color: rgb(235, 235, 240);
+  font-size: 50px;
+  width: 50%;
+}
+
+.appointment {
+  margin: 0;
+  font-size: 110%;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0px;
+
+}
+
+#app-btn {
+  position: relative;
+  top: 70px;
+  left: 50px;
+}
+
+.footer {
+
+  width: 100%;
+  margin-bottom: 0%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.emerg-footer {
+  height: 20px;
+  background-color: rgb(242, 41, 41);
+  text-align: center;
+  color: white;
+}
+
+.cpry-footer {
+  text-align: center;
+  background-color: whitesmoke;
+}
