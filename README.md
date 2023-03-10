@@ -14,4 +14,17 @@ The main objective of an HMS is to streamline hospital operations and improve pa
 Overall, an HMS is an essential tool for modern healthcare facilities to improve patient care, increase efficiency, and reduce costs. It is a comprehensive solution that can help hospitals manage their operations more effectively and deliver better healthcare outcomes.
 
 
+Features
+--------------------------
+The specific features of a hospital management system (HMS) can vary depending on the software provider and the needs of the healthcare facility using the system. However, some common features of an HMS include:
+1.Patient registration 
+2.Appointment scheduling
+3.Electronic medical records (EMRs)
+4.Chatbot Service
+5.Workflow automation
+6.Feedback and Contact Us
+
+
+
+
 
