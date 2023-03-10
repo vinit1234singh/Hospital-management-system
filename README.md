@@ -34,7 +34,8 @@ The specific features of a hospital management system (HMS) can vary depending o
 Tech Used
 --------------------------
 
-Frontend: 
+**Frontend:** HTML, CSS, JavaScript, Bootstrap
+**Backend:** PHP, MySql
 
 
 
