@@ -35,6 +35,7 @@ Tech Used
 --------------------------
 
 **Frontend:** HTML, CSS, JavaScript, Bootstrap
+
 **Backend:** PHP, MySql
 
 
