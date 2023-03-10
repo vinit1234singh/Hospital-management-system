@@ -17,11 +17,16 @@ Overall, an HMS is an essential tool for modern healthcare facilities to improve
 Features
 --------------------------
 The specific features of a hospital management system (HMS) can vary depending on the software provider and the needs of the healthcare facility using the system. However, some common features of an HMS include:
-1.Patient registration 
+1.Patient registration
+
 2.Appointment scheduling
+
 3.Electronic medical records (EMRs)
+
 4.Chatbot Service
+
 5.Workflow automation
+
 6.Feedback and Contact Us
 
 
