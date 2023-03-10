@@ -31,6 +31,12 @@ The specific features of a hospital management system (HMS) can vary depending o
 6.Feedback and Contact Us
 
 
+Tech Used
+--------------------------
+
+Frontend: 
+
+
 
 
 
