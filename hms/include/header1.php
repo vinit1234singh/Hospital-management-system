@@ -3,7 +3,7 @@
     <nav class="navbar bg-light header-main">
         <div class="container-fluid">
             <a class="navbar-brand">
-                <img src="assets/images/logo-main.jpeg" alt="main logo" height="50px" width="80px">
+                <img id="logo-img" src="assets/images/logo-main.jpeg" alt="main logo" height="50px" width="80px">
                 HealthCare
             </a>
             <div class="navbar-nav m1">

@@ -68,8 +68,8 @@ if (mysqli_connect_errno())
 
                                                 <th class="hidden-xs">Doctor Name</th>
                                                 <th>Specialization</th>
-                                                <th>Experience</th>
-                                                <th>education</th>
+                                                <th>Experience(years)</th>
+                                                <th>Education</th>
 
                                             </tr>
                                         </thead>

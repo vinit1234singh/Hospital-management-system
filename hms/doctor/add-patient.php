@@ -18,7 +18,7 @@ $medhis=$_POST['medhis'];
 $sql = mysqli_query($con, "select * from tblpatient");
     $lastid;
     while ($row = mysqli_fetch_array($sql)) {
-        $lastid=$row['id'];
+        $lastid=$row['ID'];
     }
     $lastid+=1;
     $patid="HMSP00".$lastid;

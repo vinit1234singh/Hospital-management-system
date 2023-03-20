@@ -304,7 +304,7 @@ input[type="email"],
                             SignIn
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="hms/user-login.php">Patient</a></li>
+                            <li><a class="dropdown-item" href="hms/user-login.php">User</a></li>
                             <li><a class="dropdown-item" href="hms/doctor/">Doctor</a></li>
                             <li>
                                 <hr class="dropdown-divider">

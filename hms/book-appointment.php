@@ -226,7 +226,9 @@ $query=mysqli_query($con,"insert into appointment(doctorSpecialization,doctorId,
 
     <script src="assets/js/main.js"></script>
     <script src="assets/js/form-elements.js"></script>
-
+    <!-- <script>
+    $('#logo-img').src = "assets/images/logo-main.jpeg";
+    </script> -->
     <script type="text/javascript">
     jQuery(document).ready(function() {
         Main.init();
