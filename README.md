@@ -45,6 +45,6 @@ The specific features of a hospital management system (HMS) can vary depending o
 </a>
 
 
-@all-contributors please add @vinit1234singh for <contributions>
+
 
 
