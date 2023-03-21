@@ -36,3 +36,11 @@ The specific features of a hospital management system (HMS) can vary depending o
 **Frontend:** HTML, CSS, JavaScript, Bootstrap
 
 **Backend:** PHP, MySql
+
+
+## Contributor
+
+<a href="https://github.com/vinit1234singh/hospital-management-system/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vinit1234singh/hospital-management-system" />
+</a>
+
