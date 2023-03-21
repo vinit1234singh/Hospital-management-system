@@ -33,6 +33,7 @@ The specific features of a hospital management system (HMS) can vary depending o
 
 ## Tech Used
 
+**Frontend:** <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 **Frontend:** HTML, CSS, JavaScript, Bootstrap
 
 **Backend:** PHP, MySql
