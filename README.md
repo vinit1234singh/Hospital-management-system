@@ -38,7 +38,16 @@ The specific features of a hospital management system (HMS) can vary depending o
  **Backend:** <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
 
+## DEMO
+  
+  ![Screenshot 2023-05-23 101452](https://github.com/vinit1234singh/Hospital-management-system/assets/87689549/46acb3eb-ea35-4207-9022-f0c650db943d)
+  
+  ![Screenshot 2023-05-23 101716](https://github.com/vinit1234singh/Hospital-management-system/assets/87689549/2f43a90e-20e5-4c06-96ae-2d3a288ac70b)
+  
+  ![Screenshot 2023-05-23 101929](https://github.com/vinit1234singh/Hospital-management-system/assets/87689549/9f893127-d49f-45f2-b46e-2353b0c158cb)
 
+
+  
 ## Contributor
 
 <a href="https://github.com/vinit1234singh/hospital-management-system/graphs/contributors">
